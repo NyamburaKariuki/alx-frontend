@@ -1,15 +1,15 @@
+/*enable smooth fluid when scrolling*/
 html {
   scroll-behavior: smooth;
 }
-body {
+body,
+a {
   color: #161616;
 }
 .visually-hidden {
   display: none;
 }
-.card-category {
-  color: #d73953;
-}
+.card-category,
 .section-tagline {
   color: #d73953;
 }
