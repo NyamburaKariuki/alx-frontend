@@ -4,12 +4,12 @@ html {
 body {
   color: #161616;
 }
-visually-hidden {
+.visually-hidden {
   display: none;
 }
-card-category {
+.card-category {
   color: #d73953;
 }
-section-tagline {
+.section-tagline {
   color: #d73953;
 }
